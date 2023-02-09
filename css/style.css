@@ -32,7 +32,7 @@ p, a {
   src: url("../Bigruns.ttf");
 }
 html {
-  background-image: url(../assets/bg.jpg);
+  background-image: url(../assets/ocean_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center;
